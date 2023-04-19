@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+// the purpose of this code is to use bfs to find the shortest distance between two nodes in a directed graph
 typedef struct _listnode
 {
     int vertex;
